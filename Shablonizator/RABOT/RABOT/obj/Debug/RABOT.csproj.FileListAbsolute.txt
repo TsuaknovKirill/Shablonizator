@@ -1,0 +1,87 @@
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb
+C:\Users\nevek\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\Zver\Desktop\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csprojAssemblyReference.cache
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\kirill\OneDrive\Igor\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csprojAssemblyReference.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\Zver\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csprojAssemblyReference.cache
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\nevek\Desktop\Новая папка\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\Zver\Desktop\OneDrive\Kirill\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe.config
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.exe
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\bin\Debug\RABOT.pdb
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csprojAssemblyReference.cache
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.ResolveComReference.cache
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Form1.resources
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.Properties.Resources.resources
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.GenerateResource.cache
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.exe
+C:\Users\Gap7474\Desktop\Shablonizator\RABOT\RABOT\obj\Debug\RABOT.pdb

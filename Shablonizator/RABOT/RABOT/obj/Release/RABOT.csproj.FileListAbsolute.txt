@@ -1,0 +1,11 @@
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\bin\Release\RABOT.exe.config
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\bin\Release\RABOT.exe
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\bin\Release\RABOT.pdb
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.csprojAssemblyReference.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.csproj.ResolveComReference.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.Form1.resources
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.Properties.Resources.resources
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.csproj.GenerateResource.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.csproj.CoreCompileInputs.cache
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.exe
+C:\Users\nevek\Desktop\Shablonizator\RABOT\RABOT\obj\Release\RABOT.pdb
